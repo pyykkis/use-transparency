@@ -1,19 +1,12 @@
 {
   "name": "use-transparency",
   "description": "Use transparency with browserify",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": {
     "url": "git://github.com/pyykkis/use-transparency.git"
   },
   "main": "index.js",
-  "scripts": {
-    "test": "tape test/*.js"
-  },
   "dependencies": {
-    "transparency": "~0.9.12"
-  },
-  "devDependencies": {
-    "tape": "~0.3.1",
-    "coffeeify": "~0.3.0"
+    "transparency": "~0.9.13"
   }
 }
